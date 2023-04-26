@@ -4,14 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>caracteristicas</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>Vai ser uma imagem aqui</h1>
+        <h1>pimenta bibiquinho</h1>
         <ul>
-            <li>Escola</li>
+            <li>escola</li>
             <li>Estudante</li>
         </ul>
     </header>
