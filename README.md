@@ -11,8 +11,8 @@
     <header>
         <h1>caracteristicas</h1>
         <ul>
-            <li>escola</li>
-            <li>Estudante</li>
+            <li>como plantar</li>
+            <li>como cuidar</li>
         </ul>
     </header>
 
