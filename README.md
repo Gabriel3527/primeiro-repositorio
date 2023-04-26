@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>caracteristicas</h1>
+        <h1>cuidados</h1>
         <ul>
             <li>como plantar</li>
             <li>como cuidar</li>
