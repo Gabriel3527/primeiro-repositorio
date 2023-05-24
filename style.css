@@ -1,4 +1,44 @@
-header {
-    background-color: #ffffff;
-    color: rgb(255, 0, 0);
+STYLE.CSS
+
+* {
+margin: 0%;
+padding: 0%;
+}
+
+.cabeçalho{
+background-color: lemonchiffon;
+color: black;
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px 0;
+}
+
+.cabeçalho_imagem{
+width: 12%;
+}
+
+.cabeçalho_titulo{
+font-size: 50px;
+}
+
+.cabeçalho_lista_item{
+margin: 25px 0px 25px 0px;
+font-size: 16px;
+}
+
+.apresentaçao_trabalho{
+background-image: linear-gradient(lemonchiffon, #dd371a);
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px 0;
+}
+
+.titulo_apresentaçao_trabalho{
+font-size: 30px;
+}
+
+.imagem_arvore{
+width: 15%;
 }
