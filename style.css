@@ -4,7 +4,7 @@ padding: 0%;
 }
 
 .cabeçalho{
-background-color: rgb(10, 66, 221);
+background-color: #(14, 221, 42);
 color: black;
 display: flex;
 justify-content: space-around;
@@ -26,7 +26,7 @@ font-size: 16px;
 }
 
 .apresentaçao_trabalho{
-background-image: linear-gradient(rgb(10, 66, 221), #0cb5df8e);
+background-image: linear-gradient(rgb(14, 221, 42), #0b792ca6);
 display: flex;
 justify-content: space-around;
 align-items: center;
