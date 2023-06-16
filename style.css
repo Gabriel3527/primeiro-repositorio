@@ -65,7 +65,7 @@ width: 15%;
     }
     
     .apresentaçao_trabalho{
-    background-image: linear-gradient(rgb(10, 66, 221), #00cf12ad8);
+    background-image: linear-gradient(rgb(10, 66, 221), #0cf12ad8);
     display: flex;
     justify-content: space-around;
     align-items: center;
