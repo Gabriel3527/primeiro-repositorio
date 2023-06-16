@@ -4,7 +4,7 @@ padding: 0%;
 }
 
 .cabeçalho{
-background-color: #0cb5df8e;
+background-color: #01a00ef3;
 color: black;2
 display: flex;
 justify-content: space-around;
@@ -26,7 +26,7 @@ font-size: 16px;
 }
 
 .apresentaçao_trabalho{
-background-image: linear-gradient(#0cb5df8e), #0cb5df8e);
+background-image: linear-gradient(#01a00ef3), #0cf12ad8);
 display: flex;
 justify-content: space-around;
 align-items: center;
@@ -43,7 +43,7 @@ width: 15%;
 
     
     .cabeçalho{
-    background-color: rgb(10, 66, 221);
+    background-color: rgb(0cf12ad8);
     color: black;
     display: flex;
     justify-content: space-around;
@@ -65,7 +65,7 @@ width: 15%;
     }
     
     .apresentaçao_trabalho{
-    background-image: linear-gradient(rgb(10, 66, 221), #0cb5df8e);
+    background-image: linear-gradient(rgb(10, 66, 221), #00cf12ad8);
     display: flex;
     justify-content: space-around;
     align-items: center;
