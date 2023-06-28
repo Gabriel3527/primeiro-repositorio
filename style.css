@@ -12,10 +12,6 @@ align-items: center;
 padding: 35px 0;
 }
 
-.cabeçalho_imagem{
-width: 20%;
-}
-
 .cabeçalho_titulo{
 font-size: 50px;
 }
@@ -26,7 +22,7 @@ font-size: 16px;
 }
 
 .apresentaçao_trabalho{
-background-image: linear-gradient(#0059fff3, #0cf12ad8);
+background-image: linear-gradient(#0059fff3, #0ccff1d8);
 display: flex;
 justify-content: space-around;
 align-items: center;
@@ -65,7 +61,7 @@ width: 15%;
     }
     
     .apresentaçao_trabalho{
-    background-image: linear-gradient(#0059fff3), #0cf12ad8);
+    background-image: linear-gradient(#0059fff3), #0cc2f1d8);
     display: flex;
     justify-content: space-around;
     align-items: center;
