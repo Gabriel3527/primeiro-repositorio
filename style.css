@@ -5,11 +5,11 @@ padding: 0%;
 
 .cabeçalho{
 background-color: #0059fff3;
-color: black;2
-display: flex;
+color: black;
+display:flex;
 justify-content: space-around;
 align-items: center;
-padding:35px 0;
+padding: 35px 0;
 }
 
 .cabeçalho_titulo{
