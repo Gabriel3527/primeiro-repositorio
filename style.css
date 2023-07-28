@@ -9,7 +9,7 @@ color: black;2
 display: flex;
 justify-content: space-around;
 align-items: center;
-padding: 35px 0;
+padding:35px 0;
 }
 
 .cabeçalho_titulo{
@@ -61,7 +61,7 @@ width: 15%;
     }
     
     .apresentaçao_trabalho{
-    background-image: linear-gradient(#0059fff3), #0cc2f1d8);
+    background-image: linear-gradient(#0059fff3), (#0cc2f1d8);
     display: flex;
     justify-content: space-around;
     align-items: center;
